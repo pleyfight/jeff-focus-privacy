@@ -31,7 +31,7 @@ If you look for problems in good faith and follow this policy, I won't take lega
 ## What's in scope
 
 - The Just Focus iPhone app, the current version on the App Store
-- This website: pleyfight.github.io/focus-privacy
+- This website: pleyfight.github.io/just-focus-privacy
 
 ## What isn't a security problem
 
@@ -49,5 +49,5 @@ Just Focus gets security fixes for at least five years after each version's rele
 
 ## Related
 
-- [Privacy policy](https://pleyfight.github.io/focus-privacy/)
+- [Privacy policy](https://pleyfight.github.io/just-focus-privacy/)
 - Contact: codingwithmjf@gmail.com
