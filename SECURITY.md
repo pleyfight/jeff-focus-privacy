@@ -1,8 +1,8 @@
 # Just Focus security policy
 
-Effective date: October 26, 2026
+Effective date: November 6, 2026
 
-This policy explains how to report a security problem in the Just Focus app, what happens after you report it, and how long Just Focus gets security fixes. Just Focus is made by Rejecktz (Micheal James Fergerson), an independent developer.
+This policy explains how to report a security problem in the Just Focus app, what happens after you report it, and how long Just Focus gets security fixes. Just Focus is made by The Rejecktz (Micheal James Fergerson), an independent developer.
 
 ## How to report a problem
 
