@@ -1,8 +1,8 @@
-# Just Focus security policy
+# Jeff Focus security policy
 
-Effective date: November 6, 2026
+Effective date: November 9, 2026
 
-This policy explains how to report a security problem in the Just Focus app, what happens after you report it, and how long Just Focus gets security fixes. Just Focus is made by The Rejecktz (Micheal James Fergerson), an independent developer.
+This policy explains how to report a security problem in the Jeff Focus app, what happens after you report it, and how long Jeff Focus gets security fixes. Jeff Focus is made by The Rejecktz (Micheal James Fergerson), an independent developer.
 
 ## How to report a problem
 
@@ -10,7 +10,7 @@ Email **codingwithmjf@gmail.com** with "Security" in the subject line. Please in
 
 - what the problem is and what someone could do with it,
 - the steps to reproduce it,
-- the Just Focus version and your iPhone and iOS version,
+- the Jeff Focus version and your iPhone and iOS version,
 - your name or handle if you'd like credit.
 
 Please don't share the problem publicly until it's fixed, and don't access or change anyone else's data while testing.
@@ -30,24 +30,24 @@ If you look for problems in good faith and follow this policy, I won't take lega
 
 ## What's in scope
 
-- The Just Focus iPhone app, the current version on the App Store
-- This website: pleyfight.github.io/just-focus-privacy
+- The Jeff Focus iPhone app, the current version on the App Store
+- This website: pleyfight.github.io/jeff-focus-privacy
 
 ## What isn't a security problem
 
-These are limits of iOS, not bugs in Just Focus:
+These are limits of iOS, not bugs in Jeff Focus:
 
 - Getting around a focus session on a jailbroken phone
-- Ending blocking by deleting the app, or by turning off Screen Time access for Just Focus in the iPhone's Settings
+- Ending blocking by deleting the app, or by turning off Screen Time access for Jeff Focus in the iPhone's Settings
 - Problems that need someone to already have your unlocked phone and passcode
 
 There's no paid bug bounty.
 
-## How long Just Focus gets security fixes
+## How long Jeff Focus gets security fixes
 
-Just Focus gets security fixes for at least five years after each version's release, and for as long as it's available on the App Store, whichever is longer. Only the latest version gets fixes, so please keep Just Focus updated.
+Jeff Focus gets security fixes for at least five years after each version's release, and for as long as it's available on the App Store, whichever is longer. Only the latest version gets fixes, so please keep Jeff Focus updated.
 
 ## Related
 
-- [Privacy policy](https://pleyfight.github.io/just-focus-privacy/)
+- [Privacy policy](https://pleyfight.github.io/jeff-focus-privacy/)
 - Contact: codingwithmjf@gmail.com
